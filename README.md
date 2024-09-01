@@ -1,3 +1,3 @@
 # BasicEncryption
 
-This basic encryption program uses a Caser Cipher.
+This basic encryption program uses a Caeser Cipher.
